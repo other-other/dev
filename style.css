@@ -2,6 +2,7 @@
   background-color: #fff;
 }
 
-.other {
-  background-color: orange;
+.div {
+  display: flex;
+  background-color: #fff;
 }
